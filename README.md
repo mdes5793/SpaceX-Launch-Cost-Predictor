@@ -1,8 +1,17 @@
 # SpaceX Launch Cost Predictor
 
+![Falcon 9 Rocket Family](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBM-DS0321EN-SkillsNetwork/labs/module_1_L2/images/Falcon9_rocket_family.svg)
+
 Predicting whether the Falcon 9 first stage will successfully land — a key factor in estimating launch cost. SpaceX advertises Falcon 9 launches at \$62 million compared to \$165 million+ from other providers, largely because the first stage is reusable. By predicting landing success, we can estimate whether a launch will achieve cost savings through booster recovery.
 
 This project walks through the full data science lifecycle: data collection, wrangling, exploratory analysis, interactive visualization, and machine learning classification.
+
+<p align="center">
+  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing_1.gif" width="300" alt="Successful Landing"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif" width="300" alt="Unsuccessful Landing"/>
+</p>
+<p align="center"><em>Left: Successful first stage landing &nbsp;|&nbsp; Right: Unsuccessful landing</em></p>
 
 ## Project Structure
 
