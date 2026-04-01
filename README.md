@@ -9,9 +9,9 @@ This project walks through the full data science lifecycle: data collection, wra
 <p align="center">
   <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/landing_1.gif" width="300" alt="Successful Landing"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash.gif" width="300" alt="Unsuccessful Landing"/>
+  <img src="https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/IBMDeveloperSkillsNetwork-DS0701EN-SkillsNetwork/api/Images/crash_1.gif" width="300" alt="Unsuccessful Landing"/>
 </p>
-<p align="center"><em>Left: Successful first stage landing &nbsp;|&nbsp; Right: Unsuccessful landing</em></p>
+
 
 ## Project Structure
 
